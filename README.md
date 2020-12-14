@@ -4,10 +4,6 @@
   <img align="left" alt="My VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/vk.svg" />
 </a>
 
-<a href="#" mailto="enzdarkside@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/gmail.svg" />
-</a>
-
 <br />
 
 <img align="right" alt="GIF" width="350" src="https://i.kym-cdn.com/photos/images/original/001/531/018/cb3.gif" />
