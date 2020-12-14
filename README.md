@@ -1,4 +1,4 @@
-##### Hi there 👋 I'm Vladislav Yavorsky, a full stack Developer (C#, Angular, MySQL) 
+#### Hi there 👋 I'm Vladislav Yavorsky, a full stack Developer (C#, Angular, MySQL) 
 
 [![VKontakte](https://img.shields.io/badge/VKontakte-40304f?style=for-the-badge&logo=vk)](https://vk.com/yavorskyvv)
 <br />
