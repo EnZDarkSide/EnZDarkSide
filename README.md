@@ -1,9 +1,7 @@
 ##### Hi there 👋 I'm Vladislav Yavorsky, a full stack Developer (C#, Angular, MySQL) 
 
 [![VKontakte](https://img.shields.io/badge/VKontakte-40304f?style=for-the-badge&logo=vk)](https://vk.com/yavorskyvv)
-
 <br />
-
 <img align="right" alt="GIF" width="300" src="https://i.kym-cdn.com/photos/images/original/001/531/018/cb3.gif" />
 
 - 🔭 I’m currently working for vuzopoisk.ru as a Full Stack Developer
