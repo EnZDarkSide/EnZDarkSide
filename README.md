@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Python and Java just for my own education
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 🤔 I’m looking for help with EpicSpell minecraft plugin
-- 💬 Ask me about everything!
+- 💬 Ask me about anything!
 
 **Languages and Tools:**  
 
@@ -28,5 +28,6 @@
 <img align="left" alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/node-dot-js.svg" />
 <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/mysql.svg" />
 
+<br/>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=enzdarkside&count_private=true&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzdarkside&show_icons=true&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
