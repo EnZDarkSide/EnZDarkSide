@@ -3,7 +3,7 @@
 [![VKontakte](https://img.shields.io/badge/VKontakte-40304f?style=for-the-badge&logo=vk)](https://vk.com/yavorskyvv)
 <br />
 <img align="right" alt="GIF" width="350" src="https://i.kym-cdn.com/photos/images/original/001/531/018/cb3.gif" />
-
+<br />
 - 🔭 I’m currently working for vuzopoisk.ru as a Full Stack Developer
 - 🌱 I’m currently learning Python and Java just for my own education
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
