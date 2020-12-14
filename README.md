@@ -23,7 +23,6 @@
 <img align="left" alt="PyCharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/pycharm.svg" />
 <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/visualstudio.svg" />
 <img align="left" alt="Intellij IDEA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/intellijidea.svg" />
-<img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/csharp.svg" />
 <img align="left" alt="Angular 2+" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/angular.svg" />
 <img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/css3.svg" />
 <img align="left" alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/node-dot-js.svg" />
