@@ -29,5 +29,5 @@
 <img align="left" alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/node-dot-js.svg" />
 <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/mysql.svg" />
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=enzdarkside&count_private=true&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzdarkside&show_icons=true&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
+![My github stats](https://github-readme-stats.vercel.app/api?username=enzdarkside&count_private=true&show_icons=true&hide_border=true)
