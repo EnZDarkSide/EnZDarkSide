@@ -10,7 +10,7 @@
 
 <br />
 
-<img align="right" alt="GIF" width="300" src="https://i.kym-cdn.com/photos/images/original/001/531/018/cb3.gif" />
+<img align="right" alt="GIF" width="350" src="https://i.kym-cdn.com/photos/images/original/001/531/018/cb3.gif" />
 
 - 🔭 I’m currently working for vuzopoisk.ru as a Full Stack Developer
 - 🌱 I’m currently learning Python and Java just for my own education
@@ -27,6 +27,7 @@
 <img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/css3.svg" />
 <img align="left" alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/node-dot-js.svg" />
 <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/mysql.svg" />
+
 
 <br />
 
