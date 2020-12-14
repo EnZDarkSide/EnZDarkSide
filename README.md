@@ -10,7 +10,7 @@
 
 <br />
 
-<img align="right" alt="GIF" width="400" src="https://i.kym-cdn.com/photos/images/original/001/531/018/cb3.gif" />
+<img align="right" alt="GIF" width="250" src="https://i.kym-cdn.com/photos/images/original/001/531/018/cb3.gif" />
 
 - 🔭 I’m currently working for vuzopoisk.ru as a Full Stack Developer
 - 🌱 I’m currently learning Python and Java just for my own education
@@ -28,5 +28,5 @@
 <img align="left" alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/node-dot-js.svg" />
 <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/mysql.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzdarkside&show_icons=true&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=enzdarkside&count_private=true&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzdarkside&show_icons=true&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
