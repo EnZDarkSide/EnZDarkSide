@@ -23,8 +23,10 @@
 <br />
 <br />
 
+<img align="center" alt="codewars badge" src="https://www.codewars.com/users/EnZDarkSide/badges/small" />
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=enzdarkside&count_private=true&show_icons=true&hide_border=true)
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=enzdarkside.enzdarkside" />
+    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=enzdarkside.enzdarkside" /    
 </p>
