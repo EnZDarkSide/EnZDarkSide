@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" width="300" src="https://i.kym-cdn.com/photos/images/original/001/531/018/cb3.gif" />
 <br />
 - 🔭 I was working for vuzopoisk.ru as a Full Stack Developer
-- 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
+- 💼 I have a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything!
 
 **Languages and Tools:**  
